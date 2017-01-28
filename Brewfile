@@ -1,5 +1,5 @@
-cask 'java'
 brew 'wget'
+cask 'java'
 cask 'vlc'
 cask 'google-chrome'
 cask 'dropbox'
