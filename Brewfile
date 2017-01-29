@@ -11,7 +11,6 @@ cask 'google-drive'
 cask 'superduper'
 cask 'sonos'
 cask 'box-sync'
-cask 'sourcetree'
 cask 'google-photos-backup'
 mas '1Password', id: 443987910
 mas 'Wunderlist', id: 410628904
